@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(background_app.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.appointment-form {
+    margin-left: 30%;
+    margin-right: 20%;
+    margin-top: 5%;
+
+}
+
+.input-submit {
+    margin-left: 40%;
+    margin-right: 40%;
+}
